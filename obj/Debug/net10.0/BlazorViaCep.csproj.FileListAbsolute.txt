@@ -1,0 +1,8 @@
+C:\Users\Eder\Documents\UniBh\BlazorViaCep\obj\Debug\net10.0\EmbeddedAttribute.cs
+C:\Users\Eder\Documents\UniBh\BlazorViaCep\obj\Debug\net10.0\ValidatableTypeAttribute.cs
+C:\Users\Eder\Documents\UniBh\BlazorViaCep\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\Eder\Documents\UniBh\BlazorViaCep\obj\Debug\net10.0\BlazorViaCep.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eder\Documents\UniBh\BlazorViaCep\obj\Debug\net10.0\BlazorViaCep.AssemblyInfoInputs.cache
+C:\Users\Eder\Documents\UniBh\BlazorViaCep\obj\Debug\net10.0\BlazorViaCep.AssemblyInfo.cs
+C:\Users\Eder\Documents\UniBh\BlazorViaCep\obj\Debug\net10.0\BlazorViaCep.csproj.CoreCompileInputs.cache
+C:\Users\Eder\Documents\UniBh\BlazorViaCep\obj\Debug\net10.0\BlazorViaCep.MvcApplicationPartsAssemblyInfo.cache
