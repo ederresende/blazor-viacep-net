@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "xXn2/qtEHp8=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ederj\\OneDrive\\Documents\\Faculdade\\blazor-viacep-net-main\\blazor-viacep-net-main\\BlazorViaCep.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ederj\\.nuget\\packages\\microsoft.aspnetcore.app.internal.assets\\10.0.11\\microsoft.aspnetcore.app.internal.assets.10.0.11.nupkg.sha512"
+  ],
+  "logs": []
+}
